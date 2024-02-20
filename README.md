@@ -1,3 +1,4 @@
+Welcome to My GitHub Portfolio!
 Greetings and thank you for visiting my GitHub page! Here you'll find a collection of repositories showcasing my skills, projects, and personal endeavors. As a Brazilian currently residing in Ireland, I bring a diverse perspective to my work, blending cultural influences and technical expertise.
 
 My repositories serve a dual purpose: some are dedicated to building my professional portfolio, while others are passion projects designed to push the boundaries of my knowledge and explore various analytical parameters.
